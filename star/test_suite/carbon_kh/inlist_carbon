@@ -60,6 +60,9 @@
     eps_nuc_factor = 0
     dxdt_nuc_factor = 0
 
+  ! mixing
+    MLT_option = 'TDC'
+
 / ! end of controls namelist
 
 

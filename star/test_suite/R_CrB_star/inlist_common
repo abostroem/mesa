@@ -29,6 +29,7 @@
 
       energy_eqn_option = 'dedt'
       varcontrol_target = 1d-3
+      MLT_option = 'TDC'
 
       photo_interval = 100
       profile_interval = 100

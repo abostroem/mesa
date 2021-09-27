@@ -72,6 +72,7 @@
          use_Ledoux_criterion = .true.
          alpha_semiconvection = 4d-2
          thermohaline_coeff = 2  
+         MLT_option = 'TDC'
 
          dX_mix_dist_limit = 1d-4 
          

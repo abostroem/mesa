@@ -56,6 +56,8 @@
   ! this stopping condition should not get triggered
   Teff_lower_limit = 4000
 
+  MLT_option = 'TDC'
+
       photo_interval = 50
       profile_interval = 100
       history_interval = 10

@@ -39,6 +39,7 @@
 
 ! MLT
       mixing_length_alpha = 1.73
+      MLT_option = 'TDC'
 
 ! opacities
 

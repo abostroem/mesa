@@ -27,6 +27,7 @@
 
   mass_change = -1d-8
   max_age = 1d5
+  MLT_option = 'TDC'
 
 / ! end of controls namelist
 

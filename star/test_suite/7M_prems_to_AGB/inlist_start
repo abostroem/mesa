@@ -30,6 +30,7 @@
 
       initial_mass = 7.00
       initial_z = 0.001
+      MLT_option = 'TDC'
       
       photo_interval = 50
       profile_interval = 100

@@ -30,6 +30,8 @@
 
       stop_near_zams = .true.
       Lnuc_div_L_zams_limit = 0.9d0
+
+      MLT_option = 'TDC'
       
       ! limit max_model_number as part of test_suite
       max_model_number = 10000

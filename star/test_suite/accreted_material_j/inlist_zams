@@ -30,6 +30,8 @@
 
       initial_mass = 20 ! in Msun units
       initial_Z = 0.02
+
+      MLT_option = 'TDC'
       
       stop_near_zams = .true.
       Lnuc_div_L_zams_limit = 0.9d0
@@ -46,5 +48,6 @@
       history_interval = 5
       terminal_interval = 50
    
+
 / ! end of controls namelist
 

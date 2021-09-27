@@ -58,7 +58,7 @@
       use_Ledoux_criterion = .true.
       alpha_semiconvection = 4d-2
       thermohaline_coeff = 2
-
+      MLT_option = 'TDC'
 
     ! output
 

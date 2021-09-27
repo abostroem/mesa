@@ -65,6 +65,8 @@
 
       mass_change = 1d-9
 
+      MLT_option = 'TDC'
+
       ! A few broad resolution controls
       mesh_delta_coeff = 0.4 !1.2
       max_allowed_nz = 12000

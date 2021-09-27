@@ -66,8 +66,7 @@
       D_GSF_factor = 1
       D_ST_factor = 1
 
-      !set_min_D_mix = .true.
-      !min_D_mix = 1d10
+      MLT_option = 'TDC'
       
   ! starting specifications
       initial_mass = 20 ! in Msun units

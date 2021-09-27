@@ -53,7 +53,7 @@
       min_center_Ye_for_min_D_mix = 0.47 ! min_D_mix is only used when center Ye >= this
          ! i.e., when center Ye drops below this, min_D_mix is 0
       
-      
+      MLT_option = 'TDC'      
       num_cells_for_smooth_brunt_B = 0
       
       photo_interval = 50

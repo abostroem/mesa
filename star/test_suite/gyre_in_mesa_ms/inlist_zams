@@ -42,5 +42,7 @@
       history_interval = 5
       terminal_interval = 50
 
+      MLT_option = 'TDC'
+
 / ! end of controls namelist
 

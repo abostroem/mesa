@@ -62,7 +62,7 @@
     xa_central_lower_limit(1) = 1d-3
 
    energy_eqn_option = 'dedt'
-   
+   MLT_option = 'TDC'   
     
   ! output
 

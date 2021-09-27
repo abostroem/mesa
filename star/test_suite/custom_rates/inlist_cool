@@ -18,7 +18,8 @@
 
   max_years_for_timestep = 1d6
   log_center_temp_lower_limit = 7.43136
-
+  MLT_option = 'TDC'
+ 
 / ! end of controls namelist
 
 &pgstar

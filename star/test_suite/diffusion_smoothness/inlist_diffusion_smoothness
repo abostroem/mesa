@@ -54,7 +54,7 @@
       x_integer_ctrl(1) = 1 ! part number
 
       max_age = 3d9
-
+      MLT_option = 'TDC'
       initial_mass = 1.0
       initial_z = 0.02d0
       

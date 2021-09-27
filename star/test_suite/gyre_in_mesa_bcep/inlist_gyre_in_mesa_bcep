@@ -36,6 +36,8 @@
 
   initial_mass = 12 ! in Msun units
   initial_z = 0.02
+
+  MLT_option = 'TDC'
   
   calculate_Brunt_N2 = .true.
   
